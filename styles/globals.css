@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.btn {
+  display: flex;
+  margin-top: 10px;
+  max-width: 700px;
+  cursor: pointer;
+  font-size: 1.3em;
+  color: white;
+  border-radius: 10px;
+  background: linear-gradient(to bottom, #11cec4, #102b27);
+}
